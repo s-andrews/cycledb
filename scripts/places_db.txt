@@ -501,3 +501,312 @@ Stowmarket	52.19	1.0
 Sudbury, Suffolk	52.0417	0.72816
 Woodbridge, Suffolk	52.09388888888889	1.32
 List of Sites of Special Scientific Interest in Suffolk	52.166666666666664	1.0
+Cambridgeshire	52.333333333333336	0.0
+Aldreth	52.34	0.12
+Ashley, Cambridgeshire	52.22	0.47
+England	53.0	-1.0
+Huntingdonshire	52.416666666666664	-0.25
+Abbotsley	52.19299	-0.20533
+Abbots Ripton	52.39	-0.19
+Abington Pigotts	52.083	-0.096
+Alconbury	52.36	-0.26
+Alconbury Weston	52.3771	-0.27025
+Alwalton	52.55	-0.32
+Arrington, Cambridgeshire	52.13515	-0.06475
+Babraham	52.12	0.2
+Balsham	52.1317	0.32303
+Barham, Huntingdonshire	52.36	-0.33
+Bar Hill	52.25389	0.02278
+Barnwell, Cambridgeshire	52.207	0.164
+Barrington, Cambridgeshire	52.13	0.03
+Bartlow	52.083	0.316
+Barton, Cambridgeshire	52.182	0.0562
+Barway	52.35817	0.26969
+Benwick	52.5	-0.024
+Bluntisham	52.35	0.017
+Bottisham	52.221	0.261
+Bourn	52.19	-0.061
+Boxworth	52.25946	-0.02637
+Brampton, Cambridgeshire	52.319384	-0.233529
+Brington, Cambridgeshire	52.3697	-0.4081
+Broughton, Cambridgeshire	52.38	-0.12
+Brinkley, Cambridgeshire	52.165	0.381
+Buckden, Cambridgeshire	52.28	-0.25
+Buckworth	52.38	-0.31
+Burrough Green	52.17	0.4
+Burwell, Cambridgeshire	52.275	0.327
+Bury, Cambridgeshire	52.44	-0.11
+Bythorn	52.37	-0.43
+Caldecote, Huntingdonshire	52.4808	-0.3178
+Caldecote, South Cambridgeshire	52.2	-0.026
+Cambridge	52.20527777777778	0.11916666666666667
+Camps End	52.0546	-0.35195
+Carlton, Cambridgeshire	52.15	0.4
+Catworth	52.348	-0.407
+Caxton, Cambridgeshire	52.20843	-0.0945
+Chatteris	52.456	0.055
+Cherry Hinton	52.1849	0.176
+Chesterton, Cambridge	52.21850555555556	0.14144444444444443
+Chesterton, Huntingdonshire	52.54	-0.34
+Chettisham	52.42	0.27
+Cheveley	52.22	0.46
+Childerley	52.2367	-0.0175
+Chippenham, Cambridgeshire	52.3	0.43
+Chittering, Cambridgeshire	52.30759	0.19519
+Christchurch, Cambridgeshire	52.546	0.2027
+Coates, Cambridgeshire	52.56	-0.07
+Coldham, Cambridgeshire	52.6058	0.1175
+Colne, Cambridgeshire	52.36	0.01
+Conington, South Cambridgeshire	52.277522	-0.065704
+Coppingford	52.4	-0.28
+Comberton	52.187613	0.024048
+Coton, Cambridgeshire	52.21056	0.06398
+Cottenham	52.2865	0.1244
+Coveney, Cambridgeshire	52.42	0.2
+Croxton, Cambridgeshire	52.22416	-0.18021
+Croydon, Cambridgeshire	52.13	-0.08
+Denton, Cambridgeshire	52.4778	-0.3082
+Diddington	52.27	-0.25
+Doddington, Cambridgeshire	52.495	0.061
+Dry Drayton	52.23896	0.02145
+Dullingham	52.1952	0.3838
+Duxford	52.093	0.159
+Earith	52.35	0.02
+Easton, Cambridgeshire	52.3299	-0.3358
+Eastrea	52.556	-0.089
+Eaton Ford	52.227	-0.286
+Eaton Socon	52.22	-0.29
+Ellington, Cambridgeshire	52.33	-0.3
+Elm, Cambridgeshire	52.63	0.18
+Elsworth	52.254	-0.075
+Eltisley	52.220703	-0.139799
+Elton, Cambridgeshire	52.53	-0.4
+Ely, Cambridgeshire	52.39805555555556	0.26222222222222225
+Eynesbury, Cambridgeshire	52.218	-0.266
+Eynesbury Hardwicke	52.1938	-0.2389
+Farcet	52.53	-0.23
+Fen Ditton	52.22	0.17
+Fen Drayton	52.2963	-0.0381
+Fenstanton	52.3	-0.07
+Fitton End	52.69636	-0.13029
+Folksworth	52.48	-0.3
+Fordham, Cambridgeshire	52.32	0.38
+Four Gotes	52.729	0.145
+Fowlmere	52.08	0.08
+Foxton, Cambridgeshire	52.115	0.0586
+Friday Bridge, Cambridgeshire	52.6209	0.1632
+Fulbourn	52.183951	0.227244
+Gamlingay	52.1579	-0.1946
+Girton, Cambridgeshire	52.233	0.083
+Glatton	52.46	-0.302
+Godmanchester	52.3176	-0.1725
+Gorefield	52.6831	0.0921
+Grafham, Cambridgeshire	52.3	-0.283
+Grantchester	52.179	0.095
+Graveley, Cambridgeshire	52.2645	-0.1771
+Great Chishill	52.033	0.067
+Great Eversden	52.1632	-0.0078
+Great Gransden	52.184	-0.143
+Great Gidding	52.434	-0.358
+Great Paxton	52.25	-0.217
+Great Shelford	52.1503	0.1357
+Great Staughton	52.267	-0.333
+Great Wilbraham	52.196	0.267
+Guilden Morden	52.081	-0.133
+Guyhirn	52.617	0.067
+Haddenham, Cambridgeshire	52.358	0.149
+Haddon, Cambridgeshire	52.517	-0.316
+Hail Weston	52.245	-0.297
+Hamerton	52.4	-0.317
+Hardwick, Cambridgeshire	52.2133	0.01186
+Harlton	52.151	0.028
+Harston	52.138	0.081
+Haslingfield	52.15	0.0533
+Hatley, Cambridgeshire	52.1427	-0.1288
+Hauxton	52.1488	0.1037
+Hemingford Abbots	52.316	-0.1
+Hemingford Grey	52.318	-0.104
+Heydon, Cambridgeshire	52.0399	0.08695
+Hildersham	52.11	0.25
+Hilton, Cambridgeshire	52.28	-0.11
+Hinxton	52.083	0.183
+Holme, Cambridgeshire	52.476	-0.248
+Holywell, Cambridgeshire	52.319	-0.034
+Horningsea	52.24051	0.18642
+Horseheath	52.1	0.352
+Houghton, Cambridgeshire	52.335	-0.119
+Huntingdon	52.3364	-0.1717
+Ickleton	52.072	0.177
+Isleham	52.33	0.4
+Jesus Lane	52.2086	0.1219
+Kennett, Cambridgeshire	52.2879	0.4843
+Keyston	52.35	-0.47
+Kimbolton, Cambridgeshire	52.3	-0.38
+Kings Ripton	52.37	-0.15
+Kingston, Cambridgeshire	52.18	-0.03
+Kirtling	52.18	0.47
+Knapwell	52.25	-0.05
+Landbeach	52.265	0.162
+Leighton Bromswold	52.366	-0.36
+Leverington	52.6822	0.1359
+Linton, Cambridgeshire	52.0991	0.277
+Litlington, Cambridgeshire	52.067	-0.084
+Little Chishill	52.0152	0.0665
+Little Downham	52.433	0.233
+Little Eversden	52.167	0.0
+Little Gidding	52.42	-0.33
+Little Gransden	52.18	-0.14
+Little Ouse, Cambridgeshire	52.477	0.383
+Little Paxton	52.25	-0.25
+Little Shelford	52.14267	0.1191
+Little Thetford	52.36	0.25
+Little Wilbraham	52.205	0.263
+Lode, Cambridgeshire	52.24	0.24
+Lolworth	52.259	0.00262
+Longstanton	52.279	0.0478
+Longstowe	52.183	-0.083
+Madingley	52.225	0.04092
+Manea, Cambridgeshire	52.48	0.17
+March, Cambridgeshire	52.551	0.088
+Melbourn	52.081975	0.020516
+Meldreth	52.1	0.0
+Mepal	52.406	0.117
+Milton, Cambridgeshire	52.24347	0.16147
+Morborne	52.5	-0.317
+Murrow, Cambridgeshire	52.633	0.033
+Needingworth	52.32	-0.017
+Northstowe	52.27	0.07
+Oakington	52.26136	0.06869
+Offord Cluny	52.29	-0.21
+Old Weston	52.367	-0.383
+Orwell, Cambridgeshire	52.133	-0.017
+Over, Cambridgeshire	52.314	0.016
+Pampisford	52.12	0.18
+Papworth Everard	52.25467	-0.11889
+Papworth St Agnes	52.2641	-0.1432
+Parson Drove	52.66	0.03
+Perry, Cambridgeshire	52.28	-0.32
+Peterborough	52.583333333333336	-0.25
+Pidley	52.38	-0.05
+Pondersbridge	52.5118	-0.1432
+Prickwillow	52.415	0.34
+Queen Adelaide, Cambridgeshire	52.4098	0.3022
+Rampton, Cambridgeshire	52.292	0.09
+Ramsey, Cambridgeshire	52.45	-0.12
+Ramsey Forty Foot	52.4715	-0.0806
+Ramsey Heights	52.4532	-0.1577
+Ramsey Mereside	52.489	-0.106
+Reach, Cambridgeshire	52.27	0.3
+Sawston	52.12471	0.17315
+Sawtry	52.44	-0.28
+Shepreth	52.1122	0.0325
+Shingay	52.1034	-0.093
+Shudy Camps	52.05	0.37
+Sibson, Cambridgeshire	52.56	-0.4
+Snailwell	52.2811	0.4102
+Soham	52.333831	0.336063
+Somersham	52.382255	0.00061
+Southoe	52.25	-0.25
+Spaldwick	52.3415	-0.3446
+Stapleford, Cambridgeshire	52.142	0.154
+Great Gidding	52.434	-0.358
+Steeple Morden	52.066	-0.125
+Stetchworth	52.2	0.4
+Stibbington	52.57	-0.4
+Stilton	52.48915	-0.29238
+Stonea	52.4751	0.101
+Stonely	52.2904	-0.3756
+Stow Longa	52.33	-0.37
+Stretham	52.35	0.22
+Stuntney	52.37	0.28
+Sutton, Peterborough	52.575	-0.382
+Sutton-in-the-Isle	52.38737	0.116
+Swaffham Bulbeck	52.23	0.28
+Swaffham Prior	52.25	0.3
+Swavesey	52.2975	0.0
+Swingbrow	52.477	0.025
+Tadlow	52.11	-0.13
+Tetworth	52.16	-0.22
+Teversham	52.2	0.19
+The Raveleys	52.41	-0.16
+The Stukeleys	52.3594	-0.2167
+Tholomas Drove	52.634	0.0659
+Thorney, Cambridgeshire	52.62179	-0.10595
+Thorney Toll	52.6169	-0.0211
+Thriplow	52.1	0.1
+Tilbrook	52.313	-0.423
+Toft, Cambridgeshire	52.1866	-0.0131
+Toseland, Cambridgeshire	52.2471	-0.1947
+Tydd St Giles	52.727	0.108
+Upend	52.19	0.49
+Upton, Cambridgeshire	52.5912	-0.3672
+Upware	52.308	0.2545
+Upwood	52.43	-0.15
+Warboys	52.4	-0.07
+Wardy Hill	52.4172	0.1649
+Waresley	52.175	-0.173
+Washingley	52.488	-0.331
+Waterbeach	52.26642	0.19084
+Water Newton	52.56	-0.37
+Welches Dam	52.4517	0.165
+Wendy, Cambridgeshire	52.112	-0.069
+Wentworth, Cambridgeshire	52.3849	0.1745
+Westley Waterless	52.1809	0.3685
+Weston Colville	52.153	0.362
+Westry	52.569	0.06
+Westwick, Cambridgeshire	52.2673	0.0815
+West Wickham, Cambridgeshire	52.1202	0.3575
+West Wratting	52.146	0.346
+Whaddon, Cambridgeshire	52.0998	-0.023
+Whittlesey	52.558	-0.13
+Whittlesford	52.11338	0.15119
+Wicken, Cambridgeshire	52.3126	0.2982
+Wilburton	52.3521	0.1766
+Willingham, Cambridgeshire	52.32	0.07
+Wimblington	52.5	0.08
+Wimpole	52.14	-0.046
+Winwick, Cambridgeshire	52.41	-0.38
+Wisbech	52.664	0.16
+Wisbech St Mary	52.63	0.1
+Wistow, Cambridgeshire	52.42	-0.12
+Witcham	52.399	0.15
+Witchford	52.387	0.206
+Woodditton	52.1996	0.4345
+Woodhurst	52.37	-0.07
+Woodwalton	52.413	-0.216
+Woolley, Cambridgeshire	52.3564	-0.3055
+Wothorpe	52.643	-0.483
+Wyton, Cambridgeshire	52.33	-0.13
+Yaxley, Cambridgeshire	52.52	-0.26
+Yelling, Cambridgeshire	52.25	-0.16
+Peterborough	52.583333333333336	-0.25
+Cambridge	52.20527777777778	0.11916666666666667
+Chatteris	52.456	0.055
+Ely, Cambridgeshire	52.39805555555556	0.26222222222222225
+Godmanchester	52.3176	-0.1725
+Huntingdon	52.3364	-0.1717
+March, Cambridgeshire	52.551	0.088
+Peterborough	52.583333333333336	-0.25
+Ramsey, Cambridgeshire	52.45	-0.12
+St Ives, Cambridgeshire	52.334362	-0.076147
+Soham	52.333831	0.336063
+Whittlesey	52.558	-0.13
+Wisbech	52.664	0.16
+Yaxley, Cambridgeshire	52.52	-0.26
+River Great Ouse	52.79632	0.36468
+Old Bedford River	52.3528	0.044261
+New Bedford River	52.333333333333336	0.03333333333333333
+River Cam	52.3483	0.2525
+River Kym	52.239	-0.27
+River Lark	52.4352	0.312
+River Little Ouse	52.50121	0.36704
+River Nene	52.8524	0.226
+River Stour, Suffolk	51.9494	1.2196
+River Welland	52.8983	0.0308
+List of Sites of Special Scientific Interest in Cambridgeshire	52.333333333333336	0.0
+Diocese of Ely	52.39861111111111	0.2633333333333333
+Anglican Diocese of Peterborough	52.572500000000005	-0.2388888888888889
+Isle of Ely	52.4	0.2583333333333333
+Cambridgeshire and Isle of Ely	52.21666666666667	0.1
+Soke of Peterborough	52.5833	-0.25
+Huntingdon and Peterborough	52.35	-0.1833

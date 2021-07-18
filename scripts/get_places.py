@@ -12,7 +12,7 @@ def main():
 
     with open("places_db.txt","a") as outfile:
 
-        for town in suffolk_towns:
+        for town in cambridgeshire_towns:
             if town[1] in known_towns:
                 continue
 
@@ -52,6 +52,17 @@ def get_suffolk_towns():
     return towns
 
 
+def get_cambridgeshire_towns():
+    suffolk_html = requests.get("https://en.wikipedia.org/wiki/List_of_places_in_Cambridgeshire")
+
+    towns = []
+
+    for hit in re.finditer("href=\"(/wiki/[\w\s\.,-]+)\" title=\"([\w\s\.,-]+)\"",suffolk_html.text):
+        towns.append(hit.groups())
+
+    return towns
+
+
 def get_lon_lat_for_place(url):
 
     place_html = requests.get("https://en.wikipedia.org"+url)
@@ -60,13 +71,13 @@ def get_lon_lat_for_place(url):
 
 
     # Try a coordinate match first
-    coord_hit = re.search("\"coordinates\":\[([\d\.]+),([\d\.]+)\]",place_html)
+    coord_hit = re.search("\"coordinates\":\[([\-\d\.]+),([\-\d\.]+)\]",place_html)
 
     if coord_hit is not None:
         return([float(x) for x in coord_hit.groups()])
 
     # Alternatively there's another pattern to try
-    coord_hit = re.search("\"wgCoordinates\":\{\"lat\":([\d\.]+),\"lon\":([\d\.]+)\}",place_html)
+    coord_hit = re.search("\"wgCoordinates\":\{\"lat\":([\-\d\.]+),\"lon\":([\-\d\.]+)\}",place_html)
 
     if coord_hit is not None:
         return([float(x) for x in coord_hit.groups()])
