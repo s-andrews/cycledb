@@ -1,0 +1,503 @@
+Name    Lon Lat
+Acton, Suffolk	0.76102	52.07071
+Akenham	1.131	52.094
+Aldeburgh	1.6	52.15
+Aldham, Suffolk	0.97	52.06
+Aldringham	1.5785583333333	52.193877777778
+Alpheton	0.74866	52.12294
+Ashbocking	1.192063	52.146369
+Assington	0.816	52.007
+Badley	1.0209354	52.1715362
+Ballingdon	0.716	52.033
+Bardwell, Suffolk	0.85	52.317
+Barking, Suffolk	1.026	52.137
+Barningham, Suffolk	0.883	52.35
+Bedfield	1.25	52.25
+Blaxhall	1.46	52.161
+Blythburgh	1.598	52.321
+Botesdale	1.017	52.333
+Boxford, Suffolk	0.867	52.033
+Boxted, Suffolk	0.668	52.129
+Bradfield Combust	0.767	52.183
+Bramfield, Suffolk	1.518	52.31
+Alderton, Suffolk	1.413	52.0246
+Barnham, Suffolk	0.747	52.38
+Belstead	1.106375	52.027887
+Suffolk	52.166666666666664	1.0
+Ampton	52.3066	0.737
+Ashby, Suffolk	52.537	1.668
+Athelington	52.294	1.235
+Bacton, Suffolk	52.26	1.0
+Badingham	52.2621	1.3805
+Badwell Ash	52.2832	0.9165
+Barham, Suffolk	52.118	1.105
+Barnardiston	52.111	0.498
+Barnby, Suffolk	52.448	1.641
+Barrow, Suffolk	52.233	0.583
+Barsham, Suffolk	52.45	1.526
+Battisford	52.149	1.002
+Bawdsey	52.009	1.422
+Baylham	52.128233	1.081917
+Beccles	52.458	1.563
+Bedingfield	52.267	1.183
+Benacre, Suffolk	52.399	1.691
+Benhall	52.204029	1.470986
+Bentley, Suffolk	51.991	1.069
+Lound, Suffolk	52.53	1.692
+Blundeston	52.516	1.707
+Blyford	52.335	1.558
+Boulge	52.126	1.294
+Boyton, Suffolk	52.075	1.464
+Bradfield St George	52.205	0.8
+Braiseworth	52.29	1.12
+Bramford	52.074	1.098
+Brampton, Suffolk	52.383	1.577
+Brandon, Suffolk	52.4474	0.6242
+Brandeston	52.197981	1.289091
+Brantham	51.969	1.063
+Bredfield	52.128	1.314
+Brent Eleigh	52.1	0.833
+Bressingham	52.38574	1.049713
+Brettenham, Suffolk	52.145	0.872
+Brightwell, Suffolk	52.0433	1.279
+Brockley, Suffolk	52.1596	0.6682
+Brome, Suffolk	52.345	1.133
+Brome, Suffolk	52.345	1.133
+Bromeswell	52.106928	1.360356
+Bruisyard	52.24596	1.407344
+Brundish	52.276915	1.326149
+Bucklesham	52.029682	1.26917
+Bures St. Mary	51.97177	0.77728
+Burgate	52.339	1.058
+Burgh, Suffolk	52.116	1.258
+Burstall, Suffolk	52.06	1.057
+Bury St Edmunds	52.2474	0.7183
+Butley, Suffolk	52.107	1.458
+Buxhall	52.183181	0.926567
+Campsea Ashe	52.153	1.406
+Capel St. Mary	52.002	1.046
+Carlton Colville	52.454	1.691
+Cavendish, Suffolk	52.087	0.633
+Charsfield	52.161096	1.292329
+Chattisham	52.038	1.049
+Chediston	52.346762	1.463335
+Chelmondiston	51.9895	1.20861
+Chevington, Suffolk	52.206	0.614
+Chickering, Suffolk	52.3396	1.2430644
+Chillesford	52.117122	1.484518
+Chilton, Suffolk	52.046	0.753
+Clare, Suffolk	52.08	0.58
+Claydon, Suffolk	52.10729	1.10898
+Clopton, Suffolk	52.117	1.25
+Cockfield, Suffolk	52.157	0.784
+Coddenham	52.145	1.119
+Combs, Suffolk	52.17	0.987
+Coney Weston	52.367	0.867
+Copdock	52.030687	1.081595
+Corton, Suffolk	52.515	1.747
+Cotton, Suffolk	52.26149	1.03358
+Covehithe	52.376	1.705
+Cowlinge	52.161	0.504
+Cransford	52.230355	1.395944
+Cratfield	52.326475	1.390479
+Creeting St Mary	52.169	1.067
+Creeting St Peter	52.183	1.04
+Cretingham	52.196	1.259
+Crowfield, Suffolk	52.178	1.141
+Culford	52.297	0.693
+Culpho	52.096	1.225
+Dalham	52.227	0.52
+Dallinghoo	52.146	1.312
+Darsham	52.274847	1.54237
+Debach	52.13333333333333	1.2833333333333332
+Debenham	52.224	1.18
+Denham, Mid Suffolk	52.311	1.197
+Dennington	52.254558	1.342157
+Denston	52.145	0.577
+Depden	52.18	0.607
+Drinkstone	52.21	0.85
+Dunwich	52.27688	1.62672
+Earl Soham	52.22	1.26
+Earl Stonham	52.187	1.084
+Earsham	52.451825	1.417236
+East Bergholt	51.978	1.017
+Eastbridge	52.237	1.592
+Easton, Suffolk	52.179	1.337
+Easton Bavents	52.338	1.686
+Edwardstone	52.044	0.833
+Ellough	52.425	1.597
+Elmsett	52.079	1.001
+Elveden	52.387	0.676
+Eriswell	52.367	0.533
+Erwarton	51.966	1.227
+Euston, Suffolk	52.375	0.786
+Exning	52.2667	0.35
+Eye, Suffolk	52.321	1.147
+Eyke	52.1	1.3833333333333333
+Falkenham	52.0	1.35
+Fakenham Magna	52.354	0.805
+Farnham, Suffolk	52.188	1.455
+Felixstowe	51.9639	1.3515
+Felixstowe Ferry	51.989	1.39
+Felsham	52.17727	0.84672
+Finningham	52.28336	1.02991
+Flatford	51.95945	1.01866
+Flempton	52.3	0.65
+Flixton, Lothingland	52.501	1.703
+Flixton, The Saints	52.431	1.398
+Flowton	52.08031	1.04006
+Fornham All Saints	52.2767	0.6915
+Fornham St Genevieve	52.278	0.709
+Fornham St Martin	52.272	0.714
+Foxhall, Suffolk	52.034574	1.237974
+Framlingham	52.22207	1.34342
+Framsden	52.183	1.217
+Freckenham	52.3167	0.433
+Fressingfield	52.346824	1.317738
+Freston, Suffolk	52.007309	1.16096
+Friston	52.19	1.528
+Frostenden	52.378	1.64
+Gazeley	52.247904	0.518245
+Gedding	52.18483	0.8541
+Gipping	52.22773	1.03206
+Gisleham	52.437	1.698
+Gislingham	52.3	1.05
+Glemsford	52.1	0.669
+Gosbeck	52.1577	1.14814
+Great Ashfield	52.267	0.933
+Great Barton	52.267	0.767
+Great Bealings	52.094	1.257
+Great Blakenham	52.114314	1.093623
+Great Bradley	52.15	0.433
+Great Bricett	52.118	0.978
+Great Cornard	52.02453	0.74966
+Great Finborough	52.181	0.945
+Great Glemham	52.204	1.424
+Great Livermere	52.306	0.767
+Great Saxham	52.232	0.613
+Great Thurlow	52.125	0.45
+Great Waldingfield	52.0558	0.77462
+Great Wratting	52.106	0.46
+Gromford	52.179	1.4904
+Groton, Suffolk	52.038	0.857
+Grundisburgh	52.11241	1.2462
+Gunton, Suffolk	52.5	1.748
+Hacheston	52.183	1.375
+Hadleigh, Suffolk	52.044	0.961
+Halesworth	52.342	1.506
+Hargrave, Suffolk	52.206	0.589
+Harkstead	51.968	1.185
+Hartest	52.13995	0.67878
+Hasketon	52.10818	1.28156
+Haughley	52.221	0.968
+Haverhill, Suffolk	52.08	0.44
+Hawkedon	52.145	0.627
+Helmingham	52.173	1.203
+Hemingstone	52.140837	1.141334
+Hemley	52.0323	1.33
+Hengrave	52.2857	0.6757
+Henley, Suffolk	52.118205	1.150458
+Henstead	52.415	1.667
+Hepworth, Suffolk	52.3357	0.9125
+Herringfleet	52.524	1.65
+Herringswell	52.301184	0.516185
+Hessett	52.21752	0.83399
+Heveningham	52.302129	1.421569
+Higham, Babergh	51.98252	0.96172
+Hintlesham	52.05	1.05
+Hitcham, Suffolk	52.117	0.9
+Hinderclay	52.35216	0.97434
+Holbrook, Suffolk	51.984	1.159
+Hollesley	52.049	1.43
+Holton, Suffolk	52.343	1.524
+Homersfield	52.42	1.359
+Honington, Suffolk	52.33619	0.8035
+Hoo, Suffolk	52.182	1.299
+Hopton, Suffolk	52.372	0.927
+Horham	52.305	1.249
+Horringer	52.223	0.673
+Hoxne	52.35	1.2
+Hundon	52.1	0.55
+Hunston, Suffolk	52.283	0.9
+Huntingfield, Suffolk	52.317	1.427
+Icklingham	52.31	0.59
+Ickworth	52.217	0.671
+Iken	52.141381	1.522703
+Ilketshall St Andrew	52.431	1.498
+Ilketshall St Lawrence	52.401	1.496
+Ilketshall St Margaret	52.415	1.454
+Ingham, Suffolk	52.3041	0.7199
+Ipswich	52.059444444444445	1.1555555555555554
+Ixworth	52.3	0.833
+Ixworth Thorpe	52.321	0.811
+Kedington	52.09	0.487
+Kelsale	52.231013	1.491972
+Kenton, Suffolk	52.248206	1.209665
+Kentford	52.272491	0.504126
+Kersey, Suffolk	52.05	0.917
+Kesgrave	52.0629	1.2379
+Kessingland	52.419	1.723
+Kettlebaston	52.115	0.868
+Kettleburgh	52.18333333333333	1.3166666666666667
+Kirkley	52.465	1.738
+Kirton, Suffolk	52.011	1.32
+Knettishall	52.386	0.9
+Knodishall	52.2	1.55
+Lackford	52.301	0.626
+Lakenheath	52.4136	0.5226
+Langham, Suffolk	52.29204	0.89974
+Lavenham	52.1076	0.79544
+Lawshall	52.1549	0.7248
+Laxfield	52.3	1.367
+Layham	52.028	0.966
+Leiston	52.206	1.579
+Leavenheath	51.991	0.84
+Letheringham	52.172247	1.324282
+Levington	52.0	1.25
+Lidgate	52.18333333333333	0.5166666666666666
+Lindsey, Suffolk	52.067	0.885
+Linstead Magna	52.34	1.406
+Linstead Parva	52.349	1.427
+Little Bealings	52.0844	1.253
+Little Blakenham	52.09633	1.0763
+Little Bradley	52.14	0.45
+Little Cornard	52.018	0.769
+Little Glemham	52.1737	1.422
+Little Livermere	52.311	0.737
+Little Saxham	52.23	0.62
+Little Thurlow	52.135	0.464
+Little Waldingfield	52.071	0.804
+Little Wenham	52.011	1.032
+Little Whelnetham	52.206	0.763
+Little Wratting	52.097	0.463
+Long Melford	52.077	0.718
+Lowestoft	52.48	1.75
+Market Weston	52.36	0.917
+Marlesford	52.166666666666664	1.4
+Martlesham	52.07327	1.28181
+Martlesham Heath	52.061177	1.272471
+Melton, Suffolk	52.105752	1.331663
+Mendham, Suffolk	52.397669	1.337629
+Mendlesham	52.2501	1.0834
+Metfield	52.367	1.367
+Mettingham	52.457	1.474
+Mickfield	52.212	1.127
+Middleton, Suffolk	52.254807	1.558503
+Milden, Suffolk	52.082	0.855
+Mildenhall, Suffolk	52.34461	0.5089
+Minsmere	52.248	1.608
+Monewden	52.179	1.274
+Monk Soham	52.239495	1.241331
+Monks Eleigh	52.083	0.867
+Moulton, Suffolk	52.251	0.4875
+Mutford	52.437	1.655
+Nacton	52.017	1.233
+Naughton, Suffolk	52.1023	0.9529
+Nayland	51.97117	0.87384
+Nedging	52.105	0.935
+Needham Market	52.152	1.053
+Nettlestead, Suffolk	52.106373	1.0518962
+Newbourne	52.039289	1.313249
+Newmarket, Suffolk	52.2459	0.4105
+Newton, Suffolk	52.032	0.792
+North Cove	52.447	1.629
+Norton, Suffolk	52.25	0.867
+Nowton	52.215	0.733
+Oakley, Suffolk	52.358	1.176
+Occold	52.28	1.15
+Offton	52.106254	1.014634
+Old Newton	52.22294	1.00183
+Onehouse	52.19	0.95
+Orford, Suffolk	52.095	1.534
+Otley, Suffolk	52.152	1.222
+Oulton, Suffolk	52.489	1.709
+Oulton Broad	52.474	1.71
+Ousden	52.206	0.551
+Pakefield	52.451	1.728
+Pakenham, Suffolk	52.27	0.818
+Palgrave, Suffolk	52.36298	1.10756
+Parham, Suffolk	52.196	1.376
+Peasenhall	52.266666666666666	1.45
+Pettaugh	52.191	1.167
+Pettistree	52.144	1.354
+Pinewood, Suffolk	52.037	1.11
+Playford, Suffolk	52.086	1.235
+Polstead	52.007	0.902
+Poslingford	52.1034	0.5833
+Preston St Mary	52.12	0.84
+Ramsholt	52.02884	1.36737
+Rattlesden	52.194	0.895
+Raydon	52.007	0.986
+Rede, Suffolk	52.171	0.639
+Redgrave, Suffolk	52.361015	1.00203
+Redisham	52.405	1.54
+Redlingfield	52.294	1.206
+Red Lodge, Suffolk	52.304	0.493
+Rendham	52.229	1.437
+Rendlesham	52.130091	1.412735
+Reydon	52.3376	1.6695
+Rickinghall	52.333	1.0
+Ringsfield	52.437	1.54
+Ringshall, Suffolk	52.135642	0.981387
+Risby, Suffolk	52.267	0.633
+Rishangles	52.274	1.168
+Rougham, Suffolk	52.228398	0.798164
+Rumburgh	52.38	1.446
+Rushmere, north Suffolk	52.425	1.674
+Rushmere St Andrew	52.066	1.213
+Santon Downham	52.456611	0.667891
+Sapiston	52.33957	0.8125
+Saxmundham	52.215	1.487
+Saxtead	52.24163	1.30914
+Saxtead Green	52.23265	1.30246
+Semer, Suffolk	52.081	0.918
+Shadingfield	52.398	1.579
+Shelland	52.205054	0.930576
+Shelley, Suffolk	52.0	0.95
+Shimpling	52.12952	0.71793
+Shingle Street	52.032	1.45
+Shipmeadow	52.456	1.505
+Shottisham	52.052	1.382
+Sibton	52.273	1.467
+Sicklesmere	52.21	0.748
+Sizewell	52.207	1.62
+Snape, Suffolk	52.17	1.5
+Somerleyton	52.518	1.661
+Somersham, Suffolk	52.097994	1.042622
+Somerton, Suffolk	52.144972	0.646219
+Sotherton	52.359	1.584
+Sotterley	52.401	1.61
+South Cove, Suffolk	52.369	1.67
+Southolt	52.273	1.198
+Southwold	52.327	1.68
+Spexhall	52.367	1.494
+Sproughton	52.062411	1.095272
+Stanningfield	52.175	0.754
+Stansfield	52.138	0.607
+Stanstead, Suffolk	52.1	0.683
+Stanton, Suffolk	52.324	0.885
+Sternfield	52.201	1.497
+Stoke Ash	52.289	1.103
+Stoke-by-Clare	52.063	0.538
+Stoke-by-Nayland	51.98755	0.89171
+Stoke Park, Suffolk	52.03533	1.13142
+Stonham Aspal	52.193689	1.118783
+Stoven	52.379	1.595
+Stowlangtoft	52.277	0.874
+Stowmarket	52.19	1.0
+Stowupland	52.196	1.019
+Stradbroke	52.318	1.274
+Stradishall	52.1428	0.5504
+Stratton Hall	52.003	1.268
+Stuston	52.355	1.132
+Stutton, Suffolk	51.971	1.129
+Sudbourne	52.122548	1.523751
+Sudbury, Suffolk	52.0417	0.72816
+Sutton, Suffolk	52.067818	1.36299
+Sweffling	52.223	1.435
+Swilland	52.131	1.197
+Syleham	52.35	1.24
+Tannington	52.259962	1.28626
+Tattingstone	51.99	1.11
+Theberton	52.237235	1.568352
+Thelnetham	52.365	0.96
+Thorington	52.3125	1.549
+Thorndon, Suffolk	52.286	1.128
+Thornham Magna	52.3	1.083
+Thornham Parva	52.313	1.091
+Thorpe Morieux	52.145	0.836
+Thorpeness	52.179333	1.61471
+Thrandeston	52.346	1.104
+Thurston, Suffolk	52.24994	0.8259
+Thwaite, Suffolk	52.27	1.095
+Timworth	52.289	0.727
+Tostock	52.235	0.862
+Trimley St Martin	51.991	1.313
+Troston	52.314	0.783
+Tuddenham	52.31433	0.546398
+Tuddenham St Martin	52.091	1.198
+Tunstall, Suffolk	52.144	1.45
+Ubbeston	52.302017	1.406973
+Ufford, Suffolk	52.1231	1.3512
+Uggeshall	52.363	1.593
+Waldringfield	52.051648	1.322468
+Walpole, Suffolk	52.318	1.4687
+Walsham le Willows	52.303	0.938
+Walton, Suffolk	51.971	1.341
+Wangford	52.355	1.622
+Wantisden	52.110617	1.457811
+Washbrook	52.035934	1.086523
+Walberswick	52.313	1.667
+Wattisfield	52.332	0.95
+Wattisham	52.12527	0.93868
+Wenham Magna	52.003714	1.014304
+Wenhaston	52.325	1.554
+West Row	52.34841	0.4626
+West Stow	52.302	0.668
+Westerfield	52.083	1.172
+Westleton	52.264982	1.575395
+Westhall	52.378	1.546
+Westhorpe, Suffolk	52.282	0.997
+Westley, Suffolk	52.249	0.671
+Weston, Suffolk	52.425	1.574
+Wetherden	52.227	0.94
+Wetheringsett	52.25768	1.11631
+Weybread	52.3756	1.2939
+Whatfield	52.079	0.954
+Whepstead	52.19	0.683
+Wherstead	52.023	1.139
+Whitton, Ipswich	52.085	1.125
+Wickhambrook	52.17	0.551
+Wickham Market	52.15	1.367
+Wickham Skeith	52.279	1.073
+Wilby, Suffolk	52.301	1.286
+Willingham St Mary	52.413	1.594
+Willisham	52.1198	1.0136
+Wingfield, Suffolk	52.347	1.271
+Winston, Suffolk	52.208	1.193
+Wissett	52.361	1.473
+Wissington, Suffolk	51.965	0.846
+Withersfield	52.106	0.418
+Witnesham	52.115	1.188
+Wixoe	52.059	0.504
+Woodbridge, Suffolk	52.09388888888889	1.32
+Woolpit	52.224	0.887
+Woolverstone	52.002261	1.184892
+Worlington, Suffolk	52.333	0.486
+Worlingham	52.452	1.595
+Worlingworth	52.27	1.27
+Wortham, Suffolk	52.35	1.05
+Wrentham, Suffolk	52.384	1.669
+Yaxley, Suffolk	52.32219	1.11082
+Yoxford	52.264	1.509
+Bridge Cottage	51.95945	1.01866
+Clare Castle	52.0768	0.5829
+Dedham Vale	51.9716	0.9459
+East Anglia Transport Museum	52.4524	1.6861
+Framlingham Castle	52.22405	1.34691
+Ickworth House	52.22032	0.656839
+Leiston Abbey	52.2214	1.5776
+Mid-Suffolk Light Railway	52.2503	1.1178
+Museum of East Anglian Life	52.18588	0.99155
+Lowestoft	52.48	1.75
+Orford Ness	52.081388888888895	1.5586111111111112
+RSPB Minsmere	52.2425	1.613888888888889
+Snape Maltings	52.163442	1.496358
+Sutton Hoo	1.338	52.089
+Ipswich	52.059444444444445	1.1555555555555554
+Mid Suffolk	52.156	1.0489
+Bungay	52.456	1.437
+Ipswich	52.059444444444445	1.1555555555555554
+Kesgrave	52.0629	1.2379
+Leiston	52.206	1.579
+Lowestoft	52.48	1.75
+Mildenhall, Suffolk	52.34461	0.5089
+Needham Market	52.152	1.053
+Newmarket, Suffolk	52.2459	0.4105
+Orford, Suffolk	52.095	1.534
+Saxmundham	52.215	1.487
+Southwold	52.327	1.68
+Stowmarket	52.19	1.0
+Sudbury, Suffolk	52.0417	0.72816
+Woodbridge, Suffolk	52.09388888888889	1.32
+List of Sites of Special Scientific Interest in Suffolk	52.166666666666664	1.0
