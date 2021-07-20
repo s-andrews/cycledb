@@ -48,7 +48,7 @@ def list_places_for_gpx(file, places):
             if place["name"] in place_hits:
                 continue
 
-            if (abs(this_lat - place["lat"]) < 0.005) and (abs(this_lon - place["lon"]) < 0.005):
+            if (abs(this_lat - place["lat"]) < 0.01) and (abs(this_lon - place["lon"]) < 0.01):
                 place_hits.add(place["name"])                
 
 
