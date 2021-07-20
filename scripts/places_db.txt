@@ -810,3 +810,362 @@ Isle of Ely	52.4	0.2583333333333333
 Cambridgeshire and Isle of Ely	52.21666666666667	0.1
 Soke of Peterborough	52.5833	-0.25
 Huntingdon and Peterborough	52.35	-0.1833
+Harlow	51.779	0.128
+Brentwood, Essex	51.620355	0.305006
+Grays, Essex	51.475	0.33
+Basildon	51.5761	0.4886
+Chelmsford	51.7361	0.4798
+Colchester	51.8917	0.903
+Southend-on-Sea	51.55	0.71
+Billericay	51.628	0.4184
+Clacton-on-Sea	51.7918	1.1457
+Walton-on-the-Naze	51.848	1.268
+Saffron Walden	52.022	0.243
+Braintree, Essex	51.878	0.55
+Harwich	51.934	1.266
+Witham	51.7978	0.6373
+Essex	51.75	0.5833333333333334
+Essex	51.75	0.5833333333333334
+Abberton, Essex	51.8337	0.9118
+Abbess Roding	51.7788	0.2759
+Abridge	51.6523	0.1191
+Aldham, Essex	51.8933	0.7853
+Alphamstone	51.989	0.7428
+Alresford, Essex	51.8492	1.0022
+Althorne	51.6546	0.7634
+Ardleigh	51.9269	0.9831
+Arkesden	51.9855	0.1573
+Ashdon	52.054647	0.308823
+Asheldham	51.6742	0.8464
+Ashen, Essex	52.0527	0.5441
+Ashingdon	51.6028	0.6948
+Aythorpe Roding	51.8114	0.2977
+Bardfield Saling	51.9131	0.4482
+Barnston, Essex	51.8499	0.3886
+Barrow Hill, Essex	51.7915	0.9299
+Basildon	51.5761	0.4886
+Beauchamp Roding	51.767	0.288
+Belchamp Otten	52.0446	0.626
+Belchamp St Paul	52.0503	0.6118
+Belchamp Walter	52.0335	0.6504
+Berners Roding	51.765	0.3217
+Bicknacre	51.6964	0.5868
+Billericay	51.628	0.4184
+Birch, Essex	51.8458	0.8215
+Birchanger	51.8829	0.1979
+Birdbrook	52.0432	0.4878
+Blackmore	51.6894	0.3266
+Black Notley	51.8519	0.566
+Bobbingworth	51.7295	0.2214
+Bocking, Essex	51.8833	0.55
+Boreham	51.7599	0.542
+Borley	52.0561	0.6971
+Boxted, Essex	51.9628	0.9028
+Bradfield, Essex	51.9345	1.1249
+Bradwell-on-Sea	51.7234	0.8946
+Bradwell Waterside	51.733794	0.889883
+Braintree, Essex	51.878	0.55
+Brentwood, Essex	51.620355	0.305006
+Brightlingsea	51.81	1.03
+Broomfield, Essex	51.765	0.471
+Broxted	51.92	0.2935
+Buckhurst Hill	51.632	0.036
+Bulmer, Essex	52.028888888888886	0.6866666666666666
+Bures Hamlet	51.973	0.77
+Burnham-on-Crouch	51.6284	0.8145
+Benfleet Urban District	51.55	0.59
+Broxted	51.92	0.2935
+Canvey Island	51.525	0.5725
+Castle Hedingham	51.991	0.604
+Chadwell St Mary	51.481	0.37
+Chafford Hundred	51.488	0.3
+Chelmsford	51.7361	0.4798
+Chignall Smealy	51.778	0.416
+Chigwell	51.6225	0.07227
+Childerditch	51.5859	0.3225
+Chipping Ongar	51.703	0.244
+Chrishall	52.032	0.109
+Clacton-on-Sea	51.7918	1.1457
+Clavering, Essex	51.965	0.145
+Coggeshall	51.8717	0.6913
+Colchester	51.8917	0.903
+University of Essex	51.87633	0.94487
+Cold Norton	51.672236	0.668964
+Colne Engaine	51.941302	0.69068
+Corringham, Essex	51.525	0.46
+Debden, Epping Forest	51.6455	0.0838
+Debden, Uttlesford	51.97812	0.26703
+Dedham, Essex	51.95888	0.99341
+Dengie	51.6785	0.8716
+Doddinghurst	51.6635	0.3043
+Dovercourt	51.9308	1.2637
+Downham, Essex	51.6395	0.4901
+Duddenhoe End	52.0122	0.1254
+Earls Colne	51.928	0.702
+East Horndon	51.5743	0.3575
+East Mersea	51.7957	0.98595
+East Tilbury	51.4657	0.4294
+Elmdon	52.03456	0.13429
+Elmstead Market	51.88002	0.99445
+Elsenham	51.9204	0.226
+Epping, Essex	51.7004	0.1087
+Farnham, Essex	51.9022	0.1434
+Feering	51.851	0.718
+Felsted	51.856	0.436
+Finchingfield	51.96747	0.44995
+Fingringhoe	51.844	0.947
+Flitch Green	51.8605	0.4157
+Foulness Island	51.5976	0.8954
+Foxearth	52.0725	0.6742
+Frating	51.86042	1.02219
+Frinton-on-Sea	51.8327	1.2452
+Fryerning	51.6748	0.3705
+Fyfield, Essex	51.739042	0.272169
+Galleywood	51.697	0.474
+Gosfield	51.93333333333333	0.5833333333333334
+Grays, Essex	51.475	0.33
+Great Baddow	51.719	0.507
+Great Bardfield	51.9475	0.43532
+Great Bentley	51.8521	1.0648
+Great Bromley	51.8954	1.026
+Great Dunmow	51.873	0.3617
+Great Horkesley	51.929	0.87852
+Great Maplestead	51.981	0.631
+Great Notley	51.8595	0.5341
+Great Oakley, Essex	51.904	1.19
+Great Saling	51.9	0.4666666666666667
+Great Totham	51.779167	0.701111
+Great Wakering	51.5516	0.8165
+Great Warley	51.59	0.305
+Great Yeldham	52.016215	0.562706
+Hadleigh, Essex	51.5535	0.6095
+Hadstock	52.08	0.272
+Halstead	51.9451	0.6411
+Harlow	51.779	0.128
+Harwich	51.934	1.266
+Hatfield Peverel	51.76906	0.59281
+Hawkwell	51.5899	0.6719
+Helions Bumpstead	52.0482	0.4052
+Henham	51.9334	0.251962
+Herongate	51.59241	0.35461
+Heybridge, Maldon	51.7417	0.6897
+High Beach	51.662	0.032
+High Laver	51.756	0.212
+High Ongar	51.708949	0.264273
+Hockley	51.6014	0.6363
+Horndon-on-the-Hill	51.524	0.403
+Horsley Cross	51.9056	1.08339
+Horsleycross Street	51.91454	1.08546
+Howe Green, Chelmsford	51.6986	0.52868
+Hullbridge	51.62	0.62
+Hutton, Essex	51.63	0.358
+Ingatestone	51.67	0.38
+Ingrave	51.602	0.345
+Kelvedon	51.833	0.699
+Kelvedon Hatch	51.6633	0.2783
+Kirby-le-Soken	51.851	1.225
+Lambourne	51.638	0.13
+Langenhoe	51.828	0.911
+Latchingdon	51.671278	0.726128
+Lawford	51.94	1.045
+Layer de la Haye	51.843	0.858
+Leaden Roding	51.7961	0.311188
+Leigh-on-Sea	51.5425	0.6535
+Lexden	51.8833	0.8667
+Liston, Essex	52.07	0.705
+Little Baddow	51.742	0.573
+Little Bentley	51.88963	1.07503
+Little Bromley	51.9174	1.04493
+Little Dunmow	51.866316	0.404606
+Little Horkesley	51.952941	0.853672
+Little Maplestead	51.9748	0.6546
+Little Totham	51.774	0.738
+Little Warley	51.59	0.319
+Loughton	51.6494	0.0735
+Manningtree	51.9443	1.0614
+Margaretting	51.68333333333333	0.4166666666666667
+Marks Tey	51.876	0.772
+Mashbury	51.77868	0.39329
+Matching Tye	51.778979	0.204234
+Messing, Essex	51.835618	0.750509
+Mistley	51.944	1.081
+Mount Bures	51.95	0.767
+Mountnessing	51.64924	0.34599
+Mundon	51.689971	0.709833
+Navestock	51.6518	0.2588
+Newport, Essex	51.982449	0.213573
+North Benfleet	51.575683	0.532923
+Northey Island	51.72	0.72
+North Shoebury	51.53989	0.78167
+Nounsley	51.76424	0.60703
+Flitch Green	51.8605	0.4157
+Orsett	51.51	0.37
+Osea Island	51.7225	0.7711
+Ostend, Essex	51.643	0.79521
+Ovington, Essex	52.052015	0.577555
+Parkeston, Essex	51.9407	1.2531
+Pebmarsh	51.968279	0.6954
+Pentlow	52.073	0.648
+Pilgrims Hatch	51.636	0.291
+Pitsea	51.569	0.504
+Pleshey	51.805	0.411
+Potton Island	51.583333333333336	0.8166666666666667
+Prittlewell	51.548	0.705
+Quendon	51.95239	0.20169
+Ramsey, Essex	51.928	1.217
+Rawreth	51.610833	0.5725
+Rayleigh, Essex	51.5864	0.6049
+Rayne, Essex	51.8768	0.5142
+Ridgewell	52.0391	0.5244
+Rochford	51.5821	0.7065
+Rowhedge	51.8569	0.9474
+Roydon, Essex	51.773	0.0396
+Saffron Walden	52.022	0.243
+St Lawrence Bay	51.72	0.822
+St Osyth	51.799	1.08
+Sandon, Essex	51.715	0.526
+Sewards End	52.019999999999996	0.28694444444444445
+Shelley, Essex	51.7229	0.2486
+Shellow Bowells	51.746	0.332
+Shoeburyness	51.5316	0.7978
+Sible Hedingham	51.9805	0.591
+Silver End	51.846967	0.626135
+South Benfleet	51.55	0.56
+Southend-on-Sea	51.55	0.71
+Southminster	51.6598	0.831
+South Ockendon	51.5207	0.2956
+South Woodham Ferrers	51.651	0.6124
+Stanford-le-Hope	51.514	0.4244
+Stansted Mountfitchet	51.898	0.198
+Stanway, Essex	51.8817	0.8173
+Stambourne	52.016666666666666	0.5
+Stapleford Abbotts	51.638	0.164
+Steeple Bumpstead	52.0445	0.4484
+Stebbing	51.8956	0.4095
+Stisted	51.89172	0.61731
+Stock, Essex	51.6626	0.444
+Stondon Massey	51.68	0.292
+Stow Maries	51.664	0.649
+Sturmer, Essex	52.067	0.478
+Takeley	51.868	0.266
+Terling	51.806	0.564
+Thorpe-le-Soken	51.857	1.164
+Thaxted	51.954	0.346
+Theydon Bois	51.6713	0.1034
+Thorrington	51.83835	1.04104
+Thundersley	51.57	0.59
+Thurrock	51.5	0.4166666666666667
+Tilbury	51.4606	0.3582
+Tilbury Juxta Clare	52.0345	0.5663
+Tiptree	51.81	0.75
+Tollesbury	51.76	0.84
+Tolleshunt Knights	51.8009	0.7787
+Toot Hill, Essex	51.70059	0.19194
+Toppesfield	52.007	0.532
+Two Tree Island	51.53623	0.62858
+Ugley	51.9342	0.2103
+Ugley Green	51.9219	0.2155
+Upminster	51.555743	0.251239
+Vange	51.55	0.4666666666666667
+Virley	51.789	0.826
+Wallasea Island	51.6	0.8333333333333334
+Walton-on-the-Naze	51.848	1.268
+Warley, Essex	51.607	0.3
+West Bergholt	51.91	0.85
+Westcliff-on-Sea	51.5359	0.697
+West Horndon	51.57	0.34
+West Mersea	51.7784	0.9168
+West Tilbury	51.48	0.39
+Wethersfield, Essex	51.9536	0.4889
+White Colne	51.936	0.726
+White Court	51.861	0.529
+White Notley	51.833333333333336	0.5833333333333334
+Wickford	51.6114	0.5207
+Wickham Bishops	51.7763	0.6681
+Wimbish	52.0	0.31666666666666665
+Witham	51.7978	0.6373
+Wivenhoe	51.86666666666667	0.9624999999999999
+Wix, Essex	51.91215	1.14201
+Wormingford	51.9581	0.8194
+Wrabness	51.9396	1.1673
+Writtle	51.729	0.427
+Essex	51.75	0.5833333333333334
+Southend-on-Sea	51.55	0.71
+Thurrock	51.5	0.4166666666666667
+Borough of Basildon	51.5705	0.4545
+Braintree District	51.8819	0.5525
+Borough of Brentwood	51.6	0.3
+Castle Point	51.54	0.58
+City of Chelmsford	51.73527777777778	0.4791666666666667
+Borough of Colchester	51.88861111111111	0.9036111111111111
+Harlow	51.779	0.128
+Rochford District	51.5817	0.7082
+Tendring District	51.78333333333333	1.1333333333333333
+Uttlesford	52.019	0.2367
+Aveley	51.50177	0.25339
+Basildon	51.5761	0.4886
+Billericay	51.628	0.4184
+Braintree, Essex	51.878	0.55
+Brentwood, Essex	51.620355	0.305006
+Brightlingsea	51.81	1.03
+Buckhurst Hill	51.632	0.036
+Burnham-on-Crouch	51.6284	0.8145
+Canvey Island	51.525	0.5725
+Chelmsford	51.7361	0.4798
+Chigwell	51.6225	0.07227
+Chipping Ongar	51.703	0.244
+Clacton-on-Sea	51.7918	1.1457
+Coggeshall	51.8717	0.6913
+Colchester	51.8917	0.903
+Corringham, Essex	51.525	0.46
+Dovercourt	51.9308	1.2637
+Eastwood, Essex	51.569	0.6636
+Epping, Essex	51.7004	0.1087
+Frinton-on-Sea	51.8327	1.2452
+Grays, Essex	51.475	0.33
+Great Dunmow	51.873	0.3617
+Hadleigh, Essex	51.5535	0.6095
+Halstead	51.9451	0.6411
+Harlow	51.779	0.128
+Harwich	51.934	1.266
+Holland-on-Sea	51.80555555555555	1.196388888888889
+Leigh-on-Sea	51.5425	0.6535
+Loughton	51.6494	0.0735
+Maldon	51.7318	0.6758
+Manningtree	51.9443	1.0614
+Pitsea	51.569	0.504
+Purfleet	51.48	0.25
+Rayleigh, Essex	51.5864	0.6049
+Rochford	51.5821	0.7065
+Saffron Walden	52.022	0.243
+Shoeburyness	51.5316	0.7978
+South Benfleet	51.55	0.56
+South Ockendon	51.5207	0.2956
+Southend-on-Sea	51.55	0.71
+South Woodham Ferrers	51.651	0.6124
+Southminster	51.6598	0.831
+Stanford-le-Hope	51.514	0.4244
+Thaxted	51.954	0.346
+Tilbury	51.4606	0.3582
+Waltham Abbey	51.6846	0.0004
+Walton-on-the-Naze	51.848	1.268
+West Mersea	51.7784	0.9168
+West Thurrock	51.4836	0.282
+Wickford	51.6114	0.5207
+Witham	51.7978	0.6373
+Wivenhoe	51.86666666666667	0.9624999999999999
+River Blackwater, Essex	51.75365	0.65815
+River Can	51.73769	0.45422
+River Chelmer	51.7228	0.7073
+River Ching	51.6084	-0.0346
+Cobbins Brook	51.6797	-0.0101
+River Colne, Essex	51.8007	1.0102
+River Crouch	51.626666666666665	0.9391666666666667
+River Lea	51.5072	0.0092
+Pincey Brook	51.79614	0.14613
+River Roach	51.6166	0.8718
+River Roding	51.5142	0.0993
+Roman River	51.8537	0.9541
+River Stort	51.7644	0.0141
+Stour Brook	52.0667	0.4898
+River Ter	51.7503	0.5987

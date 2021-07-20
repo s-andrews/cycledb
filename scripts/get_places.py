@@ -8,11 +8,13 @@ def main():
     known_towns = read_known_towns()
 
     # suffolk_towns = get_suffolk_towns()
-    cambridgeshire_towns = get_cambridgeshire_towns()
+    # cambridgeshire_towns = get_cambridgeshire_towns()
+
+    essex_towns = get_essex_towns()
 
     with open("places_db.txt","a") as outfile:
 
-        for town in cambridgeshire_towns:
+        for town in essex_towns:
             if town[1] in known_towns:
                 continue
 
@@ -58,6 +60,16 @@ def get_cambridgeshire_towns():
     towns = []
 
     for hit in re.finditer("href=\"(/wiki/[\w\s\.,-]+)\" title=\"([\w\s\.,-]+)\"",suffolk_html.text):
+        towns.append(hit.groups())
+
+    return towns
+
+def get_essex_towns():
+    essex_html = requests.get("https://en.wikipedia.org/wiki/List_of_places_in_Essex")
+
+    towns = []
+
+    for hit in re.finditer("href=\"(/wiki/[\w\s\.,-]+)\" title=\"([\w\s\.,-]+)\"",essex_html.text):
         towns.append(hit.groups())
 
     return towns
