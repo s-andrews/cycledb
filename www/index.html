@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- Bootstrap drawer -->
+    <link rel="stylesheet" href="css/bootstrap-drawer.css">
+ 
+    <!-- Our CSS -->
+    <link rel="stylesheet" href="css/cycledb.css" crossorigin="anonymous">
+
+
+
+    <title>Burwell Cycle Club Rides</title>
+</head>
+
+<body>
+    <button type="button" class="btn btn-primary" data-toggle="drawer" data-target="#filterdrawer">
+        Launch demo drawer
+      </button>
+      <div class="drawer drawer-left slide" tabindex="-1" role="dialog" aria-labelledby="filterdrawer-title" aria-hidden="true" id="filterdrawer">
+          <div class="drawer-content drawer-content-scrollable" role="document">
+              <div class="drawer-header">
+                  <h4 class="drawer-title" id="filterdrawer-title">Filter Rides</h4>
+              </div>
+              <div class="drawer-body">
+                  <p>Filter1</p>
+                  <button type="button" class="btn btn-secondary btn-block" data-dismiss="drawer" aria-label="Close">
+                      Apply Filters
+                  </button>
+              </div>
+          </div>
+      </div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <!-- Openstreemap JS for tracks -->
+    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+
+    <!-- Bootstrap drawer -->
+    <script src="js/drawer.js"></script>
+
+    <!-- JSCookie library -->
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.0-rc.1/dist/js.cookie.min.js"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script> -->
+
+    <!-- Our custom js -->
+    <script src="js/cycledb.js"></script>
+</body>
+
+</html>
