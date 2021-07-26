@@ -33,14 +33,16 @@ def get_routes(form):
     for route in route_list:
         route.pop("gpx") # Don't send gpx back with the original request
         route["_id"] = str(route["_id"])
-        route["dates"] = [str(x) for x in route["dates"]]
+        route["dates"] = [x.strftime("%d %b %Y") for x in route["dates"]]
+        route["ridden"] = len(route["dates"])
         routes_data.append(route)
 
-        if len(routes_data) == 10:
-            break
+
+    routes_data.sort(key=lambda x: x["ridden"], reverse=True)
+
 
     print("Content-type: application/json\n")
-    print(json.dumps(routes_data))
+    print(json.dumps(routes_data[0:10]))
 
 def get_gpx(id):
     pass

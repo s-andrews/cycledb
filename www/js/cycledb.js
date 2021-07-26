@@ -31,6 +31,9 @@ function show_routes(routes){
                             <ul>
                                 <li><strong>Distance:</strong> <span class="metric">${parseFloat(route.distance).toFixed(1)} km</span><span class="imperial">${(parseFloat(route.distance) * 0.62).toFixed(1)} miles</span></li>
                                 <li><strong>Elevation:</strong> <span class="metric">${parseFloat(route.elevation).toFixed(1)} meters</span><span class="imperial">${(parseFloat(route.elevation) * 3.28).toFixed(1)} feet</span></li>
+                                <li><strong>Goes via:</strong> ${route.places}</li>
+                                <li><strong>Last ridden:</strong> ${route.dates[route.dates.length - 1]}</li>
+                                <li><strong>Times ridden:</strong> ${route.dates.length}</li>
                             </ul>
                         </div>
                         <div class="col-md-7">
