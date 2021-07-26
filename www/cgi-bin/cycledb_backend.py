@@ -2,6 +2,7 @@
 import json
 from pymongo import MongoClient
 from bson.objectid import ObjectId
+from datetime import datetime
 import cgi
 import cgitb
 cgitb.enable()
@@ -29,10 +30,35 @@ def main():
 
 def get_routes(form):
     routes_data = []
-    route_list = routes.find()
+
+    # The filter values come in in miles/ft and the database is
+    # in km/m.  We'll handle this properly eventually...
+
+    route_limits = {
+        "distance": {"$gt": float(form["min_len"].value)*1.61,"$lt": float(form["max_len"].value)*1.61},
+        "elevation": {"$gt": float(form["min_ele"].value)*0.30,"$lt": float(form["max_ele"].value)*0.30}
+    }
+
+    # Add a place if there is one
+    if "via" in form:
+        route_limits["places"] = form["via"].value
+
+    # Filter by date of last ride
+    if "after" in form:
+        y,m,d = [int(x) for x in form["after"].value.split("-")]
+        date = datetime(y,m,d)
+        route_limits["dates"] = {"$gt": date}
+
+    if "before" in form:
+        y,m,d = [int(x) for x in form["before"].value.split("-")]
+        date = datetime(y,m,d)
+        route_limits["dates"] = {"$not": {"$gt": date}}
+
+
+
+    route_list = routes.find(route_limits,{"gpx":0})
 
     for route in route_list:
-        route.pop("gpx") # Don't send gpx back with the original request
         route["_id"] = str(route["_id"])
         route["dates"] = [x.strftime("%d %b %Y") for x in route["dates"]]
         route["ridden"] = len(route["dates"])
@@ -43,7 +69,7 @@ def get_routes(form):
 
 
     print("Content-type: application/json\n")
-    print(json.dumps(routes_data[0:10]))
+    print(json.dumps(routes_data))
 
 def get_gpx(id):
     route = routes.find_one({"_id": ObjectId(id)})

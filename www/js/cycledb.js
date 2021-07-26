@@ -1,24 +1,69 @@
 $( document ).ready(function() {
+
+    $(".filter_slider").slider({})
     update_routes()
-})
+    $("#apply_filter").click(update_routes)
+
+  })
 
 
 function update_routes(){
-    $.ajax(
-        {
-            url: "/cgi-bin/cycledb_backend.py",
-            data: {
-                action: "routes",
-            },
-            success: function(route_json) {
-                show_routes(route_json)
-            }
-        });
+
+  // Close the filter drawer if it's open
+  $("#filterdrawer").drawer("hide")
+
+  // Get the values from the filters
+  let length_limits = $("#filter_length").val().split(",")
+  let elevation_limits = $("#filter_elevation").val().split(",")
+
+
+  let form_data = {
+    "action": "routes",
+    "min_len": length_limits[0],
+    "max_len": length_limits[1],
+    "min_ele": elevation_limits[0],
+    "max_ele": elevation_limits[1]
+  }
+
+  if ($("#filter_place").val()) {
+    form_data["via"] = $("#filter_place").val()
+  }
+
+  if ($("#filter_date").val()) {
+    console.log("Fitlering by date")
+    if ($("#filter_beforeafter").val() == "Before") {
+      console.log("before")
+      form_data["before"] = $("#filter_date").val()
+    }
+    else {
+      console.log("after")
+      form_data["after"] = $("#filter_date").val()
+    }
+  }
+
+  console.log(form_data)
+
+  $.ajax(
+      {
+          url: "/cgi-bin/cycledb_backend.py",
+          data: form_data,
+          success: function(route_json) {
+              show_routes(route_json)
+          }
+      });
 }
 
-function show_routes(routes){
-    for (let i in routes) {
-        let route = routes[i]
+function show_routes(routes_json){
+    $("#routes").html("")
+
+    $("#routes").append(`<h2>Found ${routes_json.length} routes`)
+
+    for (let i in routes_json) {
+
+        if (i==10) {
+          break
+        }
+        let route = routes_json[i]
 
         $("#routes").append(`
         <div class="row">

@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
     integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
+    <!-- Bootstrap Slider -->
+    <link rel="stylesheet" href="css/bootstrap-slider.min.css">
+
     <!-- Bootstrap drawer -->
     <link rel="stylesheet" href="css/bootstrap-drawer.css">
  
@@ -27,13 +30,27 @@
     <div class="drawer drawer-left slide" tabindex="-1" role="dialog" aria-labelledby="filterdrawer-title" aria-hidden="true" id="filterdrawer">
         <div class="drawer-content drawer-content-scrollable" role="document">
             <div class="drawer-header">
-                <h4 class="drawer-title" id="filterdrawer-title">Filter Rides</h4>
+                <h4 class="drawer-title" id="filterdrawer-title">Filter Routes</h4>
             </div>
             <div class="drawer-body">
-                <p>Filter1</p>
-                <button type="button" class="btn btn-secondary btn-block" data-dismiss="drawer" aria-label="Close">
-                    Apply Filters
-                </button>
+                <label for="filter_length">Ride Length</label>
+                <input id="filter_length" class="filter_slider form_control" type="text" class="span2" value="" data-slider-min="10" data-slider-max="60" data-slider-step="2" data-slider-value="[10,60]"/>
+
+                <label for="filter_elevation">Elevation</label>
+                <input id="filter_elevation" class="filter_slider form_control" type="text" class="span2" value="" data-slider-min="0" data-slider-max="3000" data-slider-step="100" data-slider-value="[0,3000]"/>
+
+                <label for="filter_date">Last Ridden</label>
+                <select id="filter_beforeafter" class="form_control"><option>Before</option><option>After</option></select>
+                <input id="filter_date" type="date" class="form_control"/>
+
+                <label for="filter_place">Goes via</label>
+                <input type="text" id="filter_place" class="form_control">
+
+
+
+
+                <button class="btn btn-secondary" id="apply_filter">Apply Filters</button>
+
             </div>
         </div>
     </div>
@@ -66,9 +83,8 @@
     <!-- Bootstrap drawer -->
     <script src="js/drawer.js"></script>
 
-    <!-- JSCookie library -->
-    <script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.0-rc.1/dist/js.cookie.min.js"></script>
-    <!-- <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script> -->
+    <!-- Bootstrap slider -->
+    <script src="js/bootstrap-slider.min.js"></script>
 
     <!-- Our custom js -->
     <script src="js/cycledb.js"></script>
