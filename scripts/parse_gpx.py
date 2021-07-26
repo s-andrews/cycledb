@@ -14,6 +14,9 @@ def main(folder):
     global routes
     routes = db.routes_collection
 
+    # Be careful enabling this!
+    routes.delete_many({})
+
     global places
     places = read_places()
 
@@ -23,6 +26,13 @@ def main(folder):
 
         print(f"Processing {file}")
         year,month,day,strava,name = file.name.split("-",maxsplit=4)
+
+        # Take the extension off the end
+        name = name.replace(".gpx","")
+
+        # Remove the club name from the start
+        if name.lower().startswith("bcc") or name.lower().startswith("bbc"):
+            name = name[4:]
 
         # Read the gpx
         with open(file) as gpxf:
