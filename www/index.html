@@ -22,22 +22,38 @@
 </head>
 
 <body>
-    <button type="button" class="btn btn-primary" data-toggle="drawer" data-target="#filterdrawer">
-        Launch demo drawer
-      </button>
-      <div class="drawer drawer-left slide" tabindex="-1" role="dialog" aria-labelledby="filterdrawer-title" aria-hidden="true" id="filterdrawer">
-          <div class="drawer-content drawer-content-scrollable" role="document">
-              <div class="drawer-header">
-                  <h4 class="drawer-title" id="filterdrawer-title">Filter Rides</h4>
-              </div>
-              <div class="drawer-body">
-                  <p>Filter1</p>
-                  <button type="button" class="btn btn-secondary btn-block" data-dismiss="drawer" aria-label="Close">
-                      Apply Filters
-                  </button>
-              </div>
+    <button type="button" class="btn btn-primary" data-toggle="drawer" data-target="#filterdrawer">Filter Routes</button>
+
+    <!-- The filter drawer -->
+    <div class="drawer drawer-left slide" tabindex="-1" role="dialog" aria-labelledby="filterdrawer-title" aria-hidden="true" id="filterdrawer">
+        <div class="drawer-content drawer-content-scrollable" role="document">
+            <div class="drawer-header">
+                <h4 class="drawer-title" id="filterdrawer-title">Filter Rides</h4>
+            </div>
+            <div class="drawer-body">
+                <p>Filter1</p>
+                <button type="button" class="btn btn-secondary btn-block" data-dismiss="drawer" aria-label="Close">
+                    Apply Filters
+                </button>
+            </div>
+        </div>
+    </div>
+
+
+    <div>
+        <!-- Main header for the routes -->
+        <div class="jumbotron jumbotron-fluid">
+          <div class="container">
+            <h2 class="display-5">Burwell Cycle Club Routes</h2>
           </div>
-      </div>
+        </div>    
+    </div>  
+      
+    <!-- Details of the routes -->
+    <div id="routes" class="container">
+    </div> <!-- End routes -->
+
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
