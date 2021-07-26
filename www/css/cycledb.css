@@ -1,0 +1,40 @@
+.map {
+    width:100%;
+    height: 100%;
+    min-height: 15em;
+}
+
+.gpxdownload {
+    position: absolute;
+    bottom: 0;
+    right: 15px;
+    z-index: 3;
+}
+
+/* Move the strange placement of the map copyright notice */
+.ol-attribution {
+    position:absolute;
+    top: 0;
+    right: 0;
+}
+/* Get rid of the bullet from the attribution */
+.ol-attribution li {
+    list-style: none;
+}
+
+.ol-attribution button {
+    display: none;
+}
+
+
+.metric {
+    display: none
+}
+
+.card {
+    margin-bottom: 2em;
+}
+
+.jumbotron {
+    padding: 1rem
+}

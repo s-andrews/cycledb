@@ -34,6 +34,7 @@ function show_routes(routes){
                                 <li><strong>Goes via:</strong> ${route.places}</li>
                                 <li><strong>Last ridden:</strong> ${route.dates[route.dates.length - 1]}</li>
                                 <li><strong>Times ridden:</strong> ${route.dates.length}</li>
+                                <li><strong>Strava route:</strong> <a href="https://strava.com/routes/${route.strava}">Route ${route.strava}</a></li>
                             </ul>
                         </div>
                         <div class="col-md-7">
@@ -47,6 +48,42 @@ function show_routes(routes){
         </div>
     </div>
         `)
-
+        load_map(route._id, route.lat, route.lon)
     }
+}
+
+function load_map(id, lat, lon) {
+
+    let style = {
+        'MultiLineString': new ol.style.Style({
+          stroke: new ol.style.Stroke({
+            color: '#a00',
+            width: 4
+          })
+        })
+      };
+
+    let vector = new ol.layer.Vector({
+        source: new ol.source.Vector({
+          url: "/cgi-bin/cycledb_backend.py?action=gpx&id="+id,
+          format: new ol.format.GPX()
+        }),
+        style: function(feature) {
+          return style[feature.getGeometry().getType()];
+        }
+      });
+
+    new ol.Map({
+        target: "map"+id,
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
+          }),
+          vector
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([lon, lat]),
+          zoom: 10
+        })
+    })
 }
