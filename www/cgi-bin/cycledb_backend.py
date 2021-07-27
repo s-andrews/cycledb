@@ -3,6 +3,7 @@ import json
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 from datetime import datetime
+from pathlib import Path
 import cgi
 import cgitb
 cgitb.enable()
@@ -17,6 +18,11 @@ def main():
 
     form = cgi.FieldStorage()
 
+    # Test whether this is a simple autocomplete first
+    if "q" in form:
+        autocomplete(form["q"].value)
+        return
+
     if not "action" in form:
         print("Content-type: text/plain; charset=utf-8\n\nNo action")
         return
@@ -27,6 +33,17 @@ def main():
     elif form["action"].value == "routes":
         get_routes(form)
 
+
+def autocomplete(query):
+
+    query = query.lower()
+    placefile = Path(__file__).parent.parent / "placenames.json"
+
+    with open(placefile) as jin:
+        all_places = json.load(jin)
+
+        print("Content-type: application/json\n")
+        print(json.dumps([x for x in all_places if query in x.lower()]))
 
 def get_routes(form):
     routes_data = []

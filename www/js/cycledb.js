@@ -1,6 +1,13 @@
 $( document ).ready(function() {
 
     $(".filter_slider").slider({})
+
+    $("#filter_place").autoComplete({
+      resolverSettings: {
+        url: "cgi-bin/cycledb_backend.py"
+      }
+    })
+
     update_routes()
     $("#apply_filter").click(update_routes)
 
