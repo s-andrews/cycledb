@@ -5,6 +5,7 @@ from pathlib import Path
 from pymongo import MongoClient
 from datetime import datetime
 from math import cos, asin, sqrt, pi
+import json
 
 
 def main(folder):
@@ -39,6 +40,25 @@ def main(folder):
             gpx_data = gpxf.read()
             gpx_id = get_gpx_id(strava, name, gpx_data)
             add_new_date(int(year),int(month),int(day),gpx_id)
+
+    collate_place_names()
+
+def collate_place_names():
+    # Collate place names
+    all_place_names = set()
+
+    place_results = routes.find({},{"places":1})
+
+    for places in place_results:
+        for place in places["places"]:
+            all_place_names.add(place)
+
+    all_place_names = list(all_place_names)
+    all_place_names.sort()
+
+    suggestfile = Path(__file__).parent.parent / "www/placenames.json"
+    with open(suggestfile,"w") as json_out:
+        print(json.dumps(all_place_names),file=json_out)
 
 
 def add_new_date(year,month,day,gpx_id):
@@ -161,7 +181,7 @@ def read_places():
             line = line.strip()
             sections = line.split("\t")
             places.append({
-                "name": sections[0],
+                "name": sections[0].split(",")[0],
                 "lon": float(sections[2]),
                 "lat": float(sections[1])
             })
