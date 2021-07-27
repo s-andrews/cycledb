@@ -38,3 +38,23 @@
 .jumbotron {
     padding: 1rem
 }
+
+.filterlabel {
+    font-weight: bold;
+    padding-top: 1em;
+}
+
+#apply_filter {
+    margin-top: 2em;
+}
+
+.slider-selection {
+    background: gray;
+}
+
+#lastriddendiv, input {
+    display: inline;
+}
+#lastriddendiv, select {
+    display: inline
+}

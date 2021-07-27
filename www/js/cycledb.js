@@ -1,6 +1,6 @@
 $( document ).ready(function() {
 
-    $(".filter_slider").slider({})
+    $(".filter_slider").slider({tooltip_split: 1})
 
     $("#filter_place").autoComplete({
       resolverSettings: {
