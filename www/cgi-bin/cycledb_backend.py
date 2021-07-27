@@ -77,12 +77,12 @@ def get_routes(form):
 
     for route in route_list:
         route["_id"] = str(route["_id"])
-        route["dates"] = [x.strftime("%d %b %Y") for x in route["dates"]]
+        route["dates_text"] = [x.strftime("%d %b %Y") for x in route["dates"]]
+        route["dates"] = [str(x) for x in route["dates"]]
         route["ridden"] = len(route["dates"])
         routes_data.append(route)
 
-
-    routes_data.sort(key=lambda x: x["ridden"], reverse=True)
+    routes_data.sort(key=lambda x: x["dates"][-1], reverse=True)
 
 
     print("Content-type: application/json\n")

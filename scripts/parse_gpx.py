@@ -63,7 +63,7 @@ def collate_place_names():
 
 def add_new_date(year,month,day,gpx_id):
     date = datetime(year,month,day)
-    routes.update({"_id":gpx_id},{"$push": {"dates": date}})
+    routes.update_one({"_id":gpx_id},{"$push": {"dates": date}})
 
 
 def get_gpx_id(strava, name, gpx_data):
@@ -76,7 +76,11 @@ def get_gpx_id(strava, name, gpx_data):
         print(f"Found existing route {existing_route['_id']}")
         return existing_route["_id"]
 
-    # TODO: Find a match to the exact gpx data
+    # Find a match to the exact gpx data (not sure this actually helped at all)
+    existing_route = routes.find_one({"gpx":gpx_data})
+    if existing_route is not None:
+        print(f"#####Found GPX route {existing_route['_id']}")
+        return existing_route["_id"]
 
     # TODO: Find a highly similar gpx route
 
