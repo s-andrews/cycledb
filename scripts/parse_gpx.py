@@ -76,16 +76,28 @@ def get_gpx_id(strava, name, gpx_data):
         print(f"Found existing route {existing_route['_id']}")
         return existing_route["_id"]
 
-    # Find a match to the exact gpx data (not sure this actually helped at all)
-    existing_route = routes.find_one({"gpx":gpx_data})
-    if existing_route is not None:
-        print(f"#####Found GPX route {existing_route['_id']}")
-        return existing_route["_id"]
 
-    # TODO: Find a highly similar gpx route
+    # We'll now get the details for the GPX
+    places = list_places_for_gpx(gpx_data)
+    lat, lon, distance, elevation = get_stats_for_gpx(gpx_data)
+
+    # We'll still try to find an existing route match by looking
+    # for an existing route which has the same list of places in 
+    # the same order, and a total distance within 1 mile of the
+    # existing route.
+
+    existing_routes = routes.find({"places": places},{"_id":1, "distance":1})
+    for route in existing_routes:
+        if (abs(distance-route["distance"]) <= 1):
+            # Where we have a similar route we'll always keep the
+            # newer version of the gpx in case problems with the
+            # route have been fixed.
+            routes.update_one({"_id":route["_id"]},{"$set": {"gpx": gpx_data}})
+            print(f"Found similar route {route['_id']}")
+            return route["_id"]
+
 
     # No matches found, create a new entry
-    lat, lon, distance, elevation = get_stats_for_gpx(gpx_data)
 
     gpx_entry = {
         "name": name,
