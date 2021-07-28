@@ -58,3 +58,13 @@
 #lastriddendiv, select {
     display: inline
 }
+
+#more {
+    display:none;
+}
+
+#morebutton {
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-bottom: 2em;
+}
