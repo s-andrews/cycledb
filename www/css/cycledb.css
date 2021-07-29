@@ -80,10 +80,7 @@
     background-color: #e9ecef;
 }
 
-button {
-    margin: 0.5em;
-}
-select {
+.filtercontrol {
     margin: 0.5em;
 }
 
