@@ -1,5 +1,7 @@
 $( document ).ready(function() {
 
+    routes = []
+
     $(".filter_slider").slider({tooltip_split: 1})
 
     $("#filter_place").autoComplete({
@@ -13,6 +15,7 @@ $( document ).ready(function() {
 
     $("#morebutton").click(more_routes)
 
+    $("#sortby").change(sort_routes)
   })
 
 
@@ -68,22 +71,7 @@ function show_routes(routes_json){
     // more if we need.
 
     routes = routes_json
-    route_position = 0
-
-    $("#routes").html("")
-
-    $("#routes").append(`<h2>Found ${routes.length} routes`)
-
-    for (;route_position < routes.length;route_position++) {
-        if (route_position==5) {
-          break
-        }
-        append_route(routes[route_position])
-    }
-
-    if (route_position < routes.length) {
-      $("#more").show()
-    }
+    sort_routes()
 }
 
 function more_routes() {
@@ -96,6 +84,54 @@ function more_routes() {
   if (route_position == routes.length) {
     $("#more").hide()
   }
+  else {
+    $("#more").show()
+  }
+}
+
+function sort_routes() {
+
+  route_position = 0
+  $("#routes").html("")
+  $("#routes").append(`<h2>Found ${routes.length} routes`)
+
+  switch($("#sortby").val()) {
+    case "long":
+      routes.sort(function(a,b){
+        return b["distance"]-a["distance"]
+      })
+      break;
+    case "short":
+      routes.sort(function(a,b){
+        return a["distance"]-b["distance"]
+      })
+      break;
+    case "low":
+      routes.sort(function(a,b){
+        return a["elevation"]-b["elevation"]
+      })
+      break;
+    case "high":
+      routes.sort(function(a,b){
+        return b["elevation"]-a["elevation"]
+      })
+      break;
+    case "pop":
+      routes.sort(function(a,b){
+        return b["ridden"]-a["ridden"]
+      })
+      break;
+    case "date":
+      routes.sort(function(a,b){
+        return a["dates"][a["ridden"]-1] <  b["dates"][a["ridden"]-1]
+      })
+      break;
+      
+      default:
+      // code block
+  } 
+
+  more_routes()
 
 }
 

@@ -54,16 +54,36 @@
         </div>
     </div>
 
-
-    <div>
-        <!-- Main header for the routes -->
-        <div class="jumbotron jumbotron-fluid">
-          <div class="container">
-            <h2 class="display-5"><img src="images/club_logo.png">Burwell Cycle Club Routes</h2>
-            <button type="button" class="btn btn-secondary" data-toggle="drawer" data-target="#filterdrawer">Filter Routes</button>
-          </div>
-        </div>    
-    </div>  
+    <!-- Main header for the routes -->
+    <div id="filterdiv" class="container-fluid">
+        <div class="row">
+            <div class="col-md-3 text-center">
+                <img id="clublogo"src="images/club_logo.png">
+            </div>
+            <div class="col-md-6">
+                <div class="container">
+                    <div class="row">
+                        <h1>Burwell Cycle Club Rides</h1>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <button id="filterbutton" type="button" class="btn btn-primary" data-toggle="drawer" data-target="#filterdrawer">Filter Routes</button>
+                        </div>
+                        <div class="col-md-8">
+                            <select id="sortby" class="form-control">
+                                <option value="date">Sort by Date (new-old)</option>
+                                <option value="long">Sort by Distance (long-short)</option>
+                                <option value="short">Sort by Distance (short-long)</option>
+                                <option value="high">Sort by Elevation (high-low)</option>
+                                <option value="low">Sort by Elevation (low-high)</option>
+                                <option value="pop">Sort by Popularity</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
       
     <!-- Details of the routes -->
     <div id="routes" class="container">
