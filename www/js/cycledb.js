@@ -157,7 +157,7 @@ function append_route(route) {
                   </div>
                   <div class="col-md-7">
                       <div id="map${route._id}" class="map">
-                      <a class="btn btn-dark btn-sm gpxdownload" href="/cgi-bin/cycledb_backend.py?action=gpx&route=${route._id}" role="button">Download GPX</a>
+                      <a class="btn btn-dark btn-sm gpxdownload" href="/cgi-bin/cycledb_backend.py?action=gpx&id=${route._id}" role="button">Download GPX</a>
                       </div>
                   </div>
               </div>
