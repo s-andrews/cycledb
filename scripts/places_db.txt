@@ -20,6 +20,7 @@ Boxford, Suffolk	0.867	52.033
 Boxted, Suffolk	0.668	52.129
 Bradfield Combust	0.767	52.183
 Bramfield, Suffolk	1.518	52.31
+Cavenham	0.584	52.297
 Alderton, Suffolk	1.413	52.0246
 Barnham, Suffolk	0.747	52.38
 Belstead	1.106375	52.027887
